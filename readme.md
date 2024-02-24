@@ -1,7 +1,7 @@
 # Introduction
 The receipt is just for learning the design
 
-**The recipt is of my first repo**
+**The readme girof my first repo**
 
 - Moon
 - Sun
